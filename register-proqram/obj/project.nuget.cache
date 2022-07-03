@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xcn5eLmlf2UpPlgja9JSkgh3Y2+9Jpyl2S3EwnAeVFPyZvccKoaQyJASNrbqPZFhsH7ed6CCW0ouL3VO+7jtcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\register-proqram\\register-proqram\\register-proqram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

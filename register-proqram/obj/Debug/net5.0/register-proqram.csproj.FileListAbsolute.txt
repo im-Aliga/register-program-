@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\register-proqram.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\register-proqram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\register-proqram.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\register-proqram.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\register-proqram.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\bin\Debug\net5.0\register-proqram.exe
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\bin\Debug\net5.0\register-proqram.deps.json
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\bin\Debug\net5.0\register-proqram.runtimeconfig.json
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\bin\Debug\net5.0\register-proqram.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\bin\Debug\net5.0\register-proqram.dll
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\bin\Debug\net5.0\register-proqram.pdb
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\register-proqram.dll
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\refint\register-proqram.dll
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\register-proqram.pdb
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\register-proqram.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\register-proqram\register-proqram\obj\Debug\net5.0\ref\register-proqram.dll
